@@ -10,8 +10,7 @@
 ### 👩🏻‍💻 About Me:
 I am a graphic designer based in St. Louis, MO. I'm interested in pursuing front-end developement opportunities where I can combine my creative and technical skillset.
 
-- 📑 I'm currently working on my final project for Savvy Coders.
-- 🌱 I'm currently learning JavaScript 
+- 🌱 I'm currently learning React through Scrimba's Learn React course 
 - 📫 How to reach me: rae@raeanncreativedesign.com
 - ✨ Pronouns: she/her
 
