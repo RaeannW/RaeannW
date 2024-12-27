@@ -8,9 +8,10 @@
 ---
 
 ### 👩🏻‍💻 About Me:
-I am a graphic designer based in St. Louis, MO. I'm interested in pursuing front-end developement opportunities where I can combine my creative and technical skillset.
+I'm a front-end developer and designer located right outside of St. Louis, MO. I'm currently a React Developer Intern at Ascension. 
 
-- 🌱 I'm currently learning React through Scrimba's Learn React course 
+- 🌱 I'm currently learning React
+- 🌸 Also learning how to import my own 3D models into Spline to create interactive, 3D apps and landing pages 
 - 📫 How to reach me: rae@raeanncreativedesign.com
 - ✨ Pronouns: she/her
 
