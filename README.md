@@ -10,7 +10,7 @@
 ### 👩🏻‍💻 About Me:
 I'm a front-end developer and designer located right outside of St. Louis, MO. I'm currently a React Developer Intern at Ascension. 
 
-- 🌱 I'm currently learning React
+- 🌱 I'm currently learning React & Three.js
 - 🌸 Also learning how to import my own 3D models into Spline to create interactive, 3D apps and landing pages 
 - 📫 How to reach me: rae@raeanncreativedesign.com
 - ✨ Pronouns: she/her
