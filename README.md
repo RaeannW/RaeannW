@@ -10,7 +10,7 @@
 I'm a front-end developer and designer located near the St. Louis Metro Area. I'm currently a Front-End/React Developer Intern at Ascension. 
 
 ### I'm currently learning:
-🌱 React    
-✨ WordPress development -> Learning how to use PHP with WP REST API. Building a local WordPress dev enviornment using Local by Flywheel.  
+🌱 React & Next.js  
+✨ WordPress development -> Learning how to use PHP with WP REST API. Building a local WordPress dev enviornment using Laragon.  
 🌸 Occasionally dabbling in Three.js & Spline with 3D models I've created in Blender  
 📫 How to reach me: rae@raeanncreativedesign.com  
