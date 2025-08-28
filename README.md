@@ -11,6 +11,5 @@ I'm a front-end developer and designer located near the St. Louis Metro Area. I 
 
 ### I'm currently learning:
 🌱 React & Brushing up on my JavaScript skills <br/>
-✨ Dabbling with WordPress development -> Learning how to use PHP with WP REST API. Building a local WordPress dev enviornment using Laragon. <br/> 
 🌸 Occasionally playing around in Three.js & Spline with 3D models I've created in Blender  <br/>
 📫 How to reach me: rae@raeanncreativedesign.com  
