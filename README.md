@@ -12,4 +12,4 @@ I'm a front-end developer and designer located near the St. Louis Metro Area. I 
 ### I'm currently learning:
 🌱 React & Brushing up on my JavaScript skills <br/>
 🌸 Occasionally playing around in Three.js & Spline with 3D models I've created in Blender  <br/>
-📫 How to reach me: rae@raeanncreativedesign.com  
+📫 How to reach me: raeannw321@gmail.com
