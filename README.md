@@ -12,5 +12,5 @@ I'm a front-end developer and designer located near the St. Louis Metro Area. I 
 ### Currently Learning:
 Diving Deeper into React & Next.js <br/>
 
-### Currently Learning:
+### Contact:
 📫 How to reach me: raeannw321@gmail.com
